@@ -2,6 +2,7 @@ import { styled } from "styled-components"
 import Navbar from "./comonents/Navbar"
 import Products from "./comonents/Products"
 
+
  const Container=styled.div`
   width:100%;
   max-width:1110px;
